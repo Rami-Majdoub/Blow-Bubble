@@ -6,7 +6,7 @@ A JSON object is returned containing the body part names (as keys) and their pos
 In this project, I used the hand position for the controls.
 
 ### How to play
-Move your hands to blow up the bubbles (the circles).
+Move your hands to blow up the bubbles (the circles).</br>
 You lose if you miss 10 of them.
 
 ## screenshots
